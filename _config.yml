@@ -43,13 +43,6 @@ links:
     Color: "#6e5494"
     Icon-Class: fab fa-github
 
-    # EMAIL
-  - Name: Email
-    URL: "mailto:isaac@helloisaac.me"
-    Icon-Class: fas fa-envelope
-    Color: "#e17055"
-    Text_Color: "#ffffff"
-
     # REDDIT
   - Name: Reddit
     URL: https://www.reddit.com/user/BackToReal1ty
@@ -79,13 +72,12 @@ links:
     Color: "#5865F2"
     Text_Color: "#ffffff"
 
-  # # FIGMA
-  # - Name: Figma
-  #   URL: https://www.figma.com
-  #   Username: "@harshtrivedi"
-  #   Icon-Class: fab fa-figma
-  #   Color: "#ff2865"
-  #   Text_Color: "#ffffff"
+    # EMAIL
+  - Name: Email
+    URL: "mailto:isaac@helloisaac.me"
+    Icon-Class: fas fa-envelope
+    Color: "#e17055"
+    Text_Color: "#ffffff"
 
   # SPOTIFY
   - Name: Spotify
@@ -93,6 +85,14 @@ links:
     Username:
     Color: "#1DB954"
     Icon-Class: fab fa-spotify
+
+  # # FIGMA
+  # - Name: Figma
+  #   URL: https://www.figma.com
+  #   Username: "@harshtrivedi"
+  #   Icon-Class: fab fa-figma
+  #   Color: "#ff2865"
+  #   Text_Color: "#ffffff"
 
   # # MEDIUM
   # - Name: Medium
