@@ -23,95 +23,74 @@ links:
 
   # INSTAGRAM
   - Name: Instagram
-    URL:
-    Username: harsh98trivedi
+    URL: https://www.instagram.com/killedbythecircus/
+    Username: killedbythecircus
     Color: "#DD2A7B"
     Icon-Class: fab fa-instagram
 
-    # Cal.com
-  - Name: Cal.com
-    URL:
-    Username: harshtrivedi
-    Color: "#232323"
-    Icon-Class: fa fa-calendar-check
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
-    Color: "#ff0000"
-    Icon-Class: fab fa-youtube
-
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
+    URL: https://github.com/BackToReal1ty
+    Username: BackToReal1ty
     Color: "#6e5494"
     Icon-Class:
       fab fa-github
 
       # GITLAB
   - Name: GitLab
-    URL: http://github.com
-    Username: harsh98trivedi
+    URL: https://gitlab.com/surprisedpikachuu
+    Username: surprisedpikachuu
     Color: "#6e5494"
     Icon-Class: fab fa-github
 
     # EMAIL
   - Name: Email
-    URL: "mailto:harshtrivedi@duck.com"
+    URL: "mailto:isaac@helloisaac.me"
     Icon-Class: fas fa-envelope
     Color: "#e17055"
     Text_Color: "#ffffff"
 
-    # TWITCH
-  - Name: Twitch
-    URL: "https://twitch.tv"
-    Username: harsh98trivedi
-    Icon-Class: fab fa-twitch
-    Color: "#9147fe"
-    Text_Color: "#ffffff"
-
     # REDDIT
   - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
+    URL: https://www.reddit.com/user/BackToReal1ty
+    Username: BackToReal1ty
     Color: "#FF4500"
     Icon-Class: fab fa-reddit-alien
 
-  #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
-
   # TELEGRAM
   - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
+    URL: http://telegram.me/surprisedpikachu
+    Username: surprisedpikachu
     Color: "#0088cc"
     Icon-Class: fab fa-telegram-plane
 
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username:
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
-  # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: "@harshtrivedi"
-    Icon-Class: fab fa-figma
-    Color: "#ff2865"
+    # WHATSAPP
+  - Name: WhatsApp
+    URL: https://wa.me/6581499409
+    Username: "+6581499409"
+    Color: "#25d366"
+    Icon-Class: fab fa-whatsapp
+
+  # DISCORD
+  - Name: Discord
+    URL: https://discord.com/users/292612985720143872
+    Username: speakeasy#2055
+    Icon-Class: fab fa-discord
+    Color: "#5865F2"
     Text_Color: "#ffffff"
 
-    # SPOTIFY
+  # # FIGMA
+  # - Name: Figma
+  #   URL: https://www.figma.com
+  #   Username: "@harshtrivedi"
+  #   Icon-Class: fab fa-figma
+  #   Color: "#ff2865"
+  #   Text_Color: "#ffffff"
+
+  # SPOTIFY
   - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    URL: https://open.spotify.com/user/21drcjkdjnlvo6a7z5xqs2usi?si=cb316de9c9bf499e
+    Username:
     Color: "#1DB954"
     Icon-Class: fab fa-spotify
 
@@ -137,6 +116,13 @@ links:
   #   Icon-Class: fas fa-link
   #   Color: "#ffb142"
   #   Text_Color: "#ffffff"
+
+  # # Cal.com
+  # - Name: Cal.com
+  #   URL:
+  #   Username: harshtrivedi
+  #   Color: "#232323"
+  #   Icon-Class: fa fa-calendar-check
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
