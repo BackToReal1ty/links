@@ -5,7 +5,7 @@ name: Isaac Ang
 tagline: Howdy, I'm Isaac. I'm a Final-Year Cybersecurity Student currently based in Singapore. Founding member in an early stage startup, AdSwift, and looking to bootstrap more projects. Apart from tech, I'm a passionate Muay Thai athlete, photographer, writer, and horology lover. Always finding ways to better my game.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://i.imgur.com/snPYPHR.jpg
+Image_URL: https://i.imgur.com/vN5Mg3c.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://i.imgur.com/GurLu6u.jpg
@@ -131,15 +131,12 @@ links:
   #   Color: "#ffffff"
   #   Text_Color: "#000000"
 
-  # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: "#ffb142"
-    Text_Color: "#ffffff"
-
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: "Yes"
+  # # CUSTOM LINK
+  # - Name: Blog
+  #   URL: https://harsh98trivedi.github.io/blog
+  #   Icon-Class: fas fa-link
+  #   Color: "#ffb142"
+  #   Text_Color: "#ffffff"
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
