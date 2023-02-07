@@ -28,3 +28,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm" if Gem.win_platform?
 gem "webrick", "~> 1.8"
+gem "jekyll-sass-converter", "~> 2.0"
